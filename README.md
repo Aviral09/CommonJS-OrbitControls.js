@@ -21,7 +21,7 @@ ___
 
 Step 1. Add the cdn for ThreeJS in HTML head.
 ```HTML
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 ```
 
 Step 2. In the HTML body define the canvas.
